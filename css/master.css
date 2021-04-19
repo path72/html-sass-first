@@ -1,0 +1,10 @@
+h1 {
+  color: #66cc33;
+}
+
+button {
+  padding: 20px 30px;
+  background-color: #66cc33;
+  border: none;
+  cursor: pointer;
+}

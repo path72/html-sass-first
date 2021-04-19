@@ -1,0 +1,11 @@
+$brand_primary: #66cc33;
+
+h1 {
+	color: $brand_primary;
+}
+button {
+	padding: 20px 30px;
+	background-color: $brand_primary;
+	border: none;
+	cursor: pointer;
+}
